@@ -1,0 +1,6 @@
+@cepAPI_HostAddress = http://localhost:5095
+
+GET {{cepAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
